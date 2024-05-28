@@ -148,5 +148,59 @@
 // if (pasword = "Я главный"){alert("Здравствуйте")}
 // else if (pasword = "Я главный") {alert("неверный пароль")}
 
+1
+// function plus(a,b)
+// {
+// x = a+b
+//  return x
+// }
+// function minus(a,b)
+// {
+// z = a-b
+//  return z
+// }
+// function multi(a,b)
+// {
+// c = a*b
+//  return c
+// }
+// function del(a,b)
+// {
+// f = a/b
+//  return f
+// }
+// console.log(plus(2,3));
+// console.log(minus(2,3));
+// console.log(multi(2,3));
+// console.log(del(2,3));
+
+2
+// a = prompt("введите предложение")
+// console.log(a.lenght)
+
+3
+// a = prompt("введите число")
+// if(a > 0)
+// {
+// alert("Число положительное")
+// }
+// else if(a < 0)
+// {
+// alert("число отрицательное")
+// }
+// else
+// {
+// alert("Ноль")
+// }
+4
+// a = Number(prompt("введите число"))
+// s = Number(prompt('введите 2 число'))
+// w = Number(prompt('введите 3 число'))
+// h = a + s + w
+// v = h / 3
+// alert (v)
+5
+
+
 
 
